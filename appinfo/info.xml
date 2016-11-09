@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>calculadora</id>
+	<name>Calculadora</name>
+	<description>Calculadora de Parlay</description>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<author>Elías Portugal</author>
+	<requiremin>4</requiremin>
+</info>
